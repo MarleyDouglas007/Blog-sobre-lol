@@ -43,7 +43,7 @@ nav a:hover {
 
 .champion {
     text-align: center;
-    width: 23%; /* 23% para deixar espaço entre as imagens */
+    width: 24%; /* 23% para deixar espaço entre as imagens */
     margin-bottom: 20px; /* Espaço entre as fileiras */
 }
 

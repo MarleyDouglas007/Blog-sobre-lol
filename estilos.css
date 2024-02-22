@@ -46,7 +46,6 @@ nav a:hover {
     text-align: center;
     width: 24%; /* 23% para deixar espaço entre as imagens */
     margin-bottom: 20px; /* Espaço entre as fileiras */
-   
 }
 
 .champion img {
@@ -65,8 +64,8 @@ nav a:hover {
 .champion-name {
     margin-top: 16px;
     cursor: pointer;
+    font-family: "Courier New", "Monaco", "monospace";
 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .footer {
     background-color: #333;
